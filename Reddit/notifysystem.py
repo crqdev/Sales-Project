@@ -28,12 +28,6 @@ def bot_login():
 					user_agent="TestingCRQdevBot v0.1")
     return r
 
-def sendNotification(link, name):
-    data = {}
-    data["value1"] = name
-    data["value2"] = link
-    requests.post("https://maker.ifttt.com/trigger/buildapcsales/with/key/bFCLALt0S6UMac-T0D8qNk", data)
-
 class newsubs (threading.Thread):
     #This just tracks new submissions being posted to the subreddit
     def __init__(self):
