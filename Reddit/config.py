@@ -1,9 +1,0 @@
-username = "crqdevbot"
-password = "zune2795"
-client_id = "Iuiib3kVzkw7xQ"
-client_secret = "0qP26NKKhIJkkRoTWbfIzkar2Ug"
-s_user = "crqdev"
-s_pass = "zune904117"
-API_KEY = "o.Z52DwGdfzS9jmtjeboMTJyn5OC8cTBHg"
-host = 'reddit.ctnz5ak2xk8l.us-west-2.rds.amazonaws.com'
-db_name = 'Reddit'
