@@ -1,5 +1,5 @@
 # Sales-Project
-Creating Program to notify users of sales that receive high amount traffic early in their lifetime.
+Creating Program to notify users of sales that receive a high amount traffic early in their lifetime.
 
 The Reddit Folder contains the code for running the notification system for reddit.com/r/buildapcsales
 
